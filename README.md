@@ -116,4 +116,8 @@ This project helped in understanding the practical application of Machine Learni
 
 ## Author
 
-**Abhinav Singh** **Adith N Poojary** **Adhayan kumar** **Aman Kumar Choudhary** **Arpit Sharma**
+**Abhinav Singh** 
+**Adith N Poojary** 
+**Adhayan kumar** 
+**Aman Kumar Choudhary** 
+**Arpit Sharma**
