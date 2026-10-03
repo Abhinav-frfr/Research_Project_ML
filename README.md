@@ -114,10 +114,15 @@ This project helped in understanding the practical application of Machine Learni
 * Test the approach on larger datasets.
 * Explore possible improvements based on the obtained results.
 
-## Author
+## Authors
 
 **Abhinav Singh** 
-**Adith N Poojary** 
+</br>
+**Adith N Poojary**
+</br>
 **Adhayan kumar** 
-**Aman Kumar Choudhary** 
+</br>
+**Aman Kumar Choudhary**
+</br>
 **Arpit Sharma**
+</br>
